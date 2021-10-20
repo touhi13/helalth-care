@@ -12,7 +12,7 @@ const Login = () => {
             <div className="form-signin">                
                     <img className="mb-4 img-fluid" src={logo} alt=""  />
                     <h1 className="h3 mb-3 fw-normal">Please Register</h1>
-                    <button className="w-100 btn btn-lg btn-outline-primary mb-3" onClick={signInUsingGoogle}> <i class="fab fa-google pe-2"></i>Sign in With Google</button>
+                    <button className="w-100 btn btn-lg btn-outline-primary mb-3" onClick={signInUsingGoogle}> <i className="fab fa-google pe-2"></i>Sign in With Google</button>
                     <div className="form-34or">
                         <span className="pros">
                             <span>OR</span>

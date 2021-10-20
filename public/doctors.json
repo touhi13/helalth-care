@@ -1,0 +1,38 @@
+[
+    {
+        "key": "B002RL8IYL",
+        "id": 1,
+        "title": "Family Physician",
+        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg"
+    },
+    {
+        "key": "B002RL8IYI",
+        "id": 4,
+        "title": "Emergency Team",
+        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+    },
+    {
+        "key": "B002RL8IYH",
+        "id": 5,
+        "title": "Pediatry",
+        "image": "https://i.ibb.co/qMNBbhj/image4.jpg"
+    },
+    {
+        "key": "B002RL8IYG",
+        "id": 6,
+        "title": "COVID 19 Services",
+        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg"
+    },
+    {
+        "key": "B002RL8IYF",
+        "id": 7,
+        "title": "Lab Testing",
+        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+    },
+    {
+        "key": "B002RL8IYE",
+        "id": 8,
+        "title": "Vaccination",
+        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+    }
+]
