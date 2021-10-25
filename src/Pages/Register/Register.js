@@ -1,6 +1,5 @@
 import React from 'react';
 import '../Login/Login/Login.css';
-import logo from '../../Images/vaxx-logo2.png'
 import useAuth from '../../hooks/useAuth';
 import { Link } from 'react-router-dom';
 
@@ -10,7 +9,7 @@ const Login = () => {
     return (
         <div className="vaxx-form text-center">
             <div className="form-signin">                
-                    <img className="mb-4 img-fluid" src={logo} alt=""  />
+                    <img className="mb-4 img-fluid" src="https://i.ibb.co/Gt4mZZ7/medic-152458-1280.png" alt=""  />
                     <h1 className="h3 mb-3 fw-normal">Please Register</h1>
                     <button className="w-100 btn btn-lg btn-outline-primary mb-3" onClick={signInUsingGoogle}> <i className="fab fa-google pe-2"></i>Sign in With Google</button>
                     <div className="form-34or">

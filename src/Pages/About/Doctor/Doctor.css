@@ -1,0 +1,15 @@
+.card-images{
+    position:relative;
+  
+}
+.card-titles{
+    color:white;
+    width:100%;
+    position:absolute;
+    bottom:0;
+    padding:10px;
+}
+
+h5{
+    margin-bottom:0;
+}

@@ -1,0 +1,22 @@
+#imunisation-tips {
+    height:100vh ;
+    background-image: url("https://i.ibb.co/5smF4B2/2.webp");
+    background-size: cover;
+    background-position: center center ;
+    background-repeat: no-repeat;
+}
+#imunisation{
+    
+    height:60vh ;
+
+    background-image: url('https://i.ibb.co/j6cN1sw/girl.webp');
+    background-size: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.margin-auto{
+    margin: 0 auto !important;
+}
+p{
+    margin-bottom:0;
+}

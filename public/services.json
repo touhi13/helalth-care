@@ -3,36 +3,42 @@
         "key": "B002RL8IYL",
         "id": 1,
         "title": "Family Physician",
-        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg"
+        "image": "https://i.ibb.co/8xrkrFh/Medical-workers-covid-19-and-vaccination-concept-Confident-professional-doctor-female-nurse-in-blue.jpg",
+        "description": "You will be treated by caring, internationally trained doctors. They take the time to listen to you and understand your healthcare needs."
     },
     {
         "key": "B002RL8IYI",
         "id": 4,
         "title": "Emergency Team",
-        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+        "image": "https://i.ibb.co/LrqszSf/St-Vincent-Emergency-Trauma-Center.jpg",
+        "description": "We are trained to respond to all emergencies. To serve the needs of the community, we are responding to pediatric, adolescent and geriatric emergencies. "
     },
     {
         "key": "B002RL8IYH",
         "id": 5,
         "title": "Pediatry",
-        "image": "https://i.ibb.co/qMNBbhj/image4.jpg"
+        "image": "https://i.ibb.co/qMNBbhj/image4.jpg",
+        "description":"We understand what it’s like to have a seizing child fail protocol after protocol with no answers — so we provide families with the tools, support, and advocacy they need to get answers and treatment for their child."
     },
     {
         "key": "B002RL8IYG",
         "id": 6,
         "title": "COVID 19 Services",
-        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg"
+        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg",
+        "description":"We have the most robust and comprehensive COVID care facility in the country. To augment this, we have round-the-clock 24/7 multidisciplinary support of Pulmonologist, Internal Medicine, Nephrologist, Radiologist, Cardiologist and others along with a modern well-equipped treatment facility."
     },
     {
         "key": "B002RL8IYF",
         "id": 7,
         "title": "Lab Testing",
-        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+        "image": "https://i.ibb.co/fSfVYWH/image3.jpg",
+        "description":"Our lab participates in the world’s largest external quality assessment scheme. Our average accuracy score is 99.9% and rated one of the best in Bangladesh."
     },
     {
         "key": "B002RL8IYE",
         "id": 8,
         "title": "Vaccination",
-        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+        "image": "https://i.ibb.co/7j4Z5ds/mufid-majnun-ru-Q-rc5t-Oo-unsplash.jpg",
+        "description":"The Vaccination Center is providing its keen continues services. This department serves the indoor neonates, children & Adult by providing life saving vaccines. This department plays a vital role to improve the health status of community. This department maintains the excellent cold Chain for Vaccine Storage."
     }
 ]

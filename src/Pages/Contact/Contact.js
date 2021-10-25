@@ -1,7 +1,11 @@
 import React from 'react';
+import ExtraBanner from '../Shared/ExtraBanner/ExtraBanner';
 const Contact = () => {
     return (
         <>
+            <ExtraBanner
+            bannerText="Contact Us"
+            ></ExtraBanner>
             <div className="col-xxl-8 mx-5 py-5">
                 <div className="row flex-lg-row align-items-center g-5 py-5">
                     <div className="col-10 col-sm-8 col-lg-6">

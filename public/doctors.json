@@ -2,37 +2,43 @@
     {
         "key": "B002RL8IYL",
         "id": 1,
-        "title": "Family Physician",
-        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg"
+        "title": "JORDAN HEWITT, MD",
+        "image": "https://i.ibb.co/DrFDNr1/d2.webp",
+        "specialty": "Infectious Disease Physician"
     },
     {
         "key": "B002RL8IYI",
         "id": 4,
-        "title": "Emergency Team",
-        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+        "title": "MELINDA GRACE, MD",
+        "image": "https://i.ibb.co/GTq3Z8F/d1.webp",
+        "specialty":"Emergency Medicine"
     },
     {
         "key": "B002RL8IYH",
         "id": 5,
-        "title": "Pediatry",
-        "image": "https://i.ibb.co/qMNBbhj/image4.jpg"
+        "title": "KLARISSA EDMINSTON, MD",
+        "image": "https://i.ibb.co/MV8kc27/d3.webp",
+        "specialty":"Family Medicine, Pediatrics"
     },
     {
         "key": "B002RL8IYG",
         "id": 6,
-        "title": "COVID 19 Services",
-        "image": "https://i.ibb.co/Zf6JZYc/covid-test-stock-2.jpg"
+        "title": "MICHAEL HARRIS, MD",
+        "image": "https://i.ibb.co/Y21XwTk/d4.webp",
+        "specialty":"Physical Medicine and Rehabilitation"
     },
     {
         "key": "B002RL8IYF",
         "id": 7,
-        "title": "Lab Testing",
-        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+        "title": "BENJAMIN CRAWSHAW",
+        "image": "https://i.ibb.co/4mknJWq/d5.webp",
+        "specialty":"Surgery"
     },
     {
         "key": "B002RL8IYE",
         "id": 8,
-        "title": "Vaccination",
-        "image": "https://i.ibb.co/fSfVYWH/image3.jpg"
+        "title": "AMELIA DORSEY",
+        "image": "https://i.ibb.co/cYQ5LvX/d6.webp",
+        "specialty":"Family Medicine"
     }
 ]

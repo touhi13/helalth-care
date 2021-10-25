@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import ExtraBanner from '../Shared/ExtraBanner/ExtraBanner';
 import Doctor from './Doctor/Doctor';
 import WhatWeDo from './WhatWeDo/WhatWeDo';
 const About = () => {
@@ -12,6 +13,9 @@ const About = () => {
     }, []);
     return (
         <>
+            <ExtraBanner
+                bannerText="About Us"
+            ></ExtraBanner>
             <WhatWeDo></WhatWeDo>
             <div className="container text-center my-5">
                 <h1 className="my-5">Our doctors</h1>

@@ -1,12 +1,13 @@
 import React from 'react';
+import "./WhatWeDo.css"
 
 const WhatWeDo = () => {
     return (
         <>
-            <div className="col-xxl-8 py-5 about">
-                <div className="row flex-lg-row align-items-center g-5 py-5 ">
+            <div className="col-xxl-8 overflow-x-hidden my-5 py-5 py-sm-0 about">
+                <div className="row flex-lg-row align-items-center">
                     <div className="col-10 col-sm-8 col-lg-6">
-                        <div className="servicelist">
+                        <div className="ms-sm-auto servicelist">
                             <h3 className="pb-3">Our Services</h3>
                             <ul>
                                 <li><i className="fa fa-circle me-2"></i> Laboratory testing</li>
@@ -20,7 +21,7 @@ const WhatWeDo = () => {
                         </div>
                     </div>
                     <div className="col-md-10 mx-auto col-lg-5">
-                        <h2 className="display-5 fw-bold lh-1 mb-4 text-center">What we do</h2>
+                        <h2 className="display-5 fw-bold  mb-4 text-center">What we do</h2>
                         <p className="lead mb-1">To build a legacy of accessible, high quality, safe private healthcare for low and middle-income patients in emerging markets.</p>
                         <div className="">
                             <ul className="list-unstyled mt-3 mb-4 ">

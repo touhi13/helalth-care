@@ -1,7 +1,7 @@
-/* .App {
-  text-align: center;
+.App {
+  font-family: 'Roboto', sans-serif;
 }
-
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -40,6 +40,7 @@
 body {
   height: 100%;
 } */
+
 .contact-box {
   background-image: url("https://i.ibb.co/6mtDVB7/bg2.webp");
   background-position: center;
@@ -58,7 +59,8 @@ body {
 
   max-width: 350px;
   padding: 26px 39px;
-  margin-left: 230px;
+  margin:40px;
+  /* margin-left: 230px; */
   box-shadow: 0px 2px 23px 0px #0047f017;
   border-radius: 8px;
   background: #387efa;

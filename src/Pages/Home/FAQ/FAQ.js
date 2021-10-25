@@ -2,7 +2,7 @@ import React from 'react';
 
 const FAQ = () => {
     return (
-        <div className="container">
+        <div className="container mt-5">
             <h4 className="display-5 fw-bold lh-1 mb-3 text-center">FAQ</h4>
             <div className="accordion accordion-flush" id="accordionFlushExample">
                 <div className="accordion-item">
